@@ -5,11 +5,11 @@ MEANY Seed
 This is a seed application for the MEANY (Mongo/Express/Angular/Node/Yeoman) stack.
 
 ### To Use
-git clone https://github.com/jsbalrog/meany-seed.git
+    git clone https://github.com/jsbalrog/meany-seed.git
 
-`npm install
+    npm install
 
-`yo angular 
+    yo angular 
 
 answer angular install questions
 
