@@ -1,17 +1,5 @@
 <!-- scope: MainCtrl -->
 <div ng-controller="MainCtrl">
   {{ text }}
-
-  <!-- scope: UserCtrl -->
-  <div ng-controller="UserCtrl">
-  <p class="username">Welcome, {{ user.details.username }}</p>
-  <p class="id">User ID: {{ user.details.id }}</p>
-
-  <div ng-repeat="u in users">
-  User Name: {{ u.name }}<br/>
-  User E-mail: {{ u.email }}
-  </div>
-  </div>
-  <!-- /scope: UserCtrl -->
 </div>
 <!-- /scope: MainCtrl -->

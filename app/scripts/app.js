@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('pangularApp', ['ui.bootstrap'])
+angular.module('myMeanyApp', ['ui.bootstrap'])
   .config(function ($routeProvider) {
     $routeProvider
       .when('/', {
