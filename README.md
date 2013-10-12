@@ -9,4 +9,8 @@ git clone https://github.com/jsbalrog/meany-seed.git
 
 npm install
 
+yo angular answer angular install questions
+
+Answer "n" on conflict messages, when asked to replace package.json, Gruntfile.js, .bowerrc, karma.conf.js
+
 grunt server
