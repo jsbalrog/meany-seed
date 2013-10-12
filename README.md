@@ -7,9 +7,11 @@ This is a seed application for the MEANY (Mongo/Express/Angular/Node/Yeoman) sta
 ### To Use
 git clone https://github.com/jsbalrog/meany-seed.git
 
-npm install
+`npm install
 
-yo angular answer angular install questions
+`yo angular 
+
+answer angular install questions
 
 Answer "n" on conflict messages, when asked to replace package.json, Gruntfile.js, .bowerrc, karma.conf.js
 
